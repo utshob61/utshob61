@@ -39,7 +39,7 @@
 ### 📫 Connect with Me
 
 [![LinkedIn]([(https://www.linkedin.com/in/orgho-utshob-838208236/))]
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourHandle)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/yourHandle](https://www.linkedin.com/in/orgho-utshob-838208236/))
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourProfile)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=ko-fi&logoColor=white)](https://yourwebsite.com)
 
