@@ -28,14 +28,6 @@ Soft Skills: Problem Solving, Communication, Team Collaboration, Leadership
 
 ---
 
-### 📫 Connect with Me
-
-[![LinkedIn]([([https://www.linkedin.com/in/orgho-utshob-838208236/](https://www.linkedin.com/in/orgho-utshob-838208236/)))]
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourProfile)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=ko-fi&logoColor=white)](https://yourwebsite.com)
-
----
-
 ### 📈 GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=utshob61&show_icons=true&theme=radical)
