@@ -9,37 +9,28 @@
 
 - 🎓 Currently studying at Daffodil International University
 - 🌱 Learning: Flutter, React, Node.js, TypeScript, Docker, CI/CD
-- 💬 Ask me about Flutter, JavaScript, Python, DevOps, Data Structures & Algorithms
-- 🔭 Working on: [Project A](repoLink), [Project B](repoLink)
+- 💬 Ask me about Flutter, Dart, Python, DevOps, Data Structures & Algorithms
 - 📫 Reach me at: utshob61@gmail.com
 
 ---
 
 ### 🛠️ Skills
 
-| Language & Frameworks     | Tools & Platforms               | Databases & Cloud     |
-|--------------------------|----------------------------------|------------------------|
-| JavaScript / TypeScript | Docker · Git · GitHub Actions    | PostgreSQL · MongoDB  |
-| React · Next.js         | REST API · GraphQL              | Firebase · AWS        |
-| Node.js · Express       | VS Code · Postman               | CI/CD (GitHub Actions)|
-| Python · Django         | Linux · VS Code · CLI Tools      | Heroku · Netlify      |
+Programming: Dart, C, Java, Python, PHP
 
----
+Frameworks & Tools: Flutter, PostgreSQL, Power BI, Git/GitHub
 
-### 🌟 Projects
+Data & AI: Machine Learning Basics, Data Visualization, AI Integration
 
-| Project | Description | Tech Stack | Status |
-|--------|-------------|------------|--------|
-| **[YourAwesomeApp](https://github.com/utshob61/YourAwesomeApp)** | A web app that helps users track tasks with reminders. Implements JWT auth and real-time updates. | React · Node.js · Express · MongoDB | 🚧 In Progress |
-| **[AnotherCoolProject](https://github.com/utshob61/AnotherCoolProject)** | A mobile app for note-taking with markdown support and sync to the cloud. | React Native · Expo · Firebase | ✅ Released |
-| **[OpenSourceContrib](https://github.com/utshob61/OpenSourceContrib)** | Contributed features and bug fixes to an open source library. | Python · Django · GitHub | ✅ Completed |
+Design: Adobe Photoshop, Illustrator, Canva
+
+Soft Skills: Problem Solving, Communication, Team Collaboration, Leadership
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn]([(https://www.linkedin.com/in/orgho-utshob-838208236/))]
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]([https://linkedin.com/orgho-utshob-838208236])
+[![LinkedIn]([([https://www.linkedin.com/in/orgho-utshob-838208236/](https://www.linkedin.com/in/orgho-utshob-838208236/)))]
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourProfile)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=ko-fi&logoColor=white)](https://yourwebsite.com)
 
