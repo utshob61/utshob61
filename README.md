@@ -68,14 +68,6 @@ I enjoy working on projects that combine **AI, mobile apps, and web technologies
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utshob61\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utshob61\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🧠 Current Focus
 
 * Building AI-powered real-world systems
@@ -86,8 +78,8 @@ I enjoy working on projects that combine **AI, mobile apps, and web technologies
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *Add your LinkedIn link here*
-* 📧 Email: *Add your email here*
+* 💼 LinkedIn: [*[Add your LinkedIn (https://www.linkedin.com/in/orgho-utshob-838208236/)*](https://www.linkedin.com/in/orgho-utshob-838208236/)
+* 📧 Email: utshob61@gmail.com
 
 ---
 
