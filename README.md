@@ -1,48 +1,96 @@
+# 👋 Hi, I'm Orgho Utshob
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=utshob61.utshob61" alt="visitor badge"/>
-</p>
-
-## Hi there, I'm Orgho Kanti Sarker Utshob👋
-
-**Software Engineering Student** passionate about building web and mobile apps, learning new technologies & solving real-world problems.
-
-- 🎓 Currently studying at Daffodil International University
-- 🌱 Learning: Flutter, React, Node.js, TypeScript, Docker, CI/CD
-- 💬 Ask me about Flutter, Dart, Python, DevOps, Data Structures & Algorithms
-- 📫 Reach me at: utshob61@gmail.com
+🎓 Final-Year Software Engineering Student
+💡 Aspiring AI Engineer | Full-Stack Developer | Flutter Enthusiast
+🎨 Graphic Designer with a passion for clean UI/UX
 
 ---
 
-### 🛠️ Skills
+## 🚀 About Me
 
-Programming: Dart, C, Java, Python, PHP
+I’m a passionate software engineering student focused on building **real-world, impactful applications**.
+I enjoy working on projects that combine **AI, mobile apps, and web technologies**.
 
-Frameworks & Tools: Flutter, PostgreSQL, Power BI, Git/GitHub
-
-Data & AI: Machine Learning Basics, Data Visualization, AI Integration
-
-Design: Adobe Photoshop, Illustrator, Canva
-
-Soft Skills: Problem Solving, Communication, Team Collaboration, Leadership
+* 🔭 Currently building: AI-powered applications (Fitness Tracker, Smart Attendance System)
+* 🌱 Learning: Machine Learning, Flutter, Django REST API
+* 🎯 Goal: Become a skilled AI Engineer & land a job early
+* 🌍 Open to: Remote opportunities & international career paths
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=utshob61&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utshob61&layout=compact&theme=radical)
+### 💻 Programming
+
+* C, Java, JavaScript, Dart
+
+### 🌐 Web Development
+
+* HTML, CSS, JavaScript
+* Django (Backend Development)
+
+### 📱 Mobile Development
+
+* Flutter (Cross-platform app development)
+
+### 🤖 AI / Data Science
+
+* Python (Pandas, basic ML concepts)
+* TensorFlow Lite / AI integrations (learning phase)
+
+### 🎨 Design
+
+* UI/UX Design
+* Graphic Design (Posters, Branding, Social Media)
 
 ---
 
-### 🤖 Let's connect!
+## 📌 Featured Projects
 
-I'm always open to talk about open source, collaboration, tech stacks, or just chat. Feel free to drop me a message!
+### 🔥 FitAI – AI Fitness Tracker
+
+* Smart dashboard (calories, steps, hydration)
+* Workout logging system
+* AI Fitness Coach (chat-based)
+* Weekly progress analytics
+
+### 🎓 EduVate – AI E-learning Platform
+
+* Django + PostgreSQL based platform
+* Free coding courses with smart features
+* AI-powered learning assistance
+
+### 📷 AI Smart Attendance System
+
+* Face recognition-based attendance
+* Flutter mobile app + Django backend
+* Real-time tracking & admin dashboard
 
 ---
 
-<!--
-Template inspired by amazing community READMEs:
-- GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
-- Shields: https://shields.io
--->
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utshob61\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utshob61\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🧠 Current Focus
+
+* Building AI-powered real-world systems
+* Strengthening Data Structures & Algorithms
+* Developing production-ready mobile apps
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: *Add your LinkedIn link here*
+* 📧 Email: *Add your email here*
+
+---
+
+## ⚡ Fun Fact
+
+I combine **code + design** to build apps that are not just functional, but also visually engaging 🚀
