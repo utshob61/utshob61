@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Orgho Utshob
 
-🎓 Final-Year Software Engineering Student
+🎓 Software Engineering Graduate
 💡 Aspiring AI Engineer | Full-Stack Developer | Flutter Enthusiast
 🎨 Graphic Designer with a passion for clean UI/UX
 
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I’m a passionate software engineering student focused on building **real-world, impactful applications**.
+I’m a passionate software engineering graduate focused on building **real-world, impactful applications**.
 I enjoy working on projects that combine **AI, mobile apps, and web technologies**.
 
 * 🔭 Currently building: AI-powered applications (Fitness Tracker, Smart Attendance System)
@@ -78,7 +78,7 @@ I enjoy working on projects that combine **AI, mobile apps, and web technologies
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [*[Add your LinkedIn (https://www.linkedin.com/in/orgho-utshob-838208236/)*](https://www.linkedin.com/in/orgho-utshob-838208236/)
+* 💼 LinkedIn: Orgho Utshob
 * 📧 Email: utshob61@gmail.com
 
 ---
